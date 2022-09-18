@@ -55,28 +55,28 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.vcardowner = ['917736908570'] //ur owner number
-global.ownername = "🦄 ITACHIMD" //ur owner name
+global.ownername = "ī.am      💓҉️      𝙸𝚃𝙰𝙲𝙷𝙸" //ur owner name
 global.ytname = "YT: ITACHIMD" //ur yt chanel name
-global.socialm = "GitHub: _soul.__.kid_" //ur github or insta name
+global.socialm = "GitHub: _SOUL.__.KID_" //ur github or insta name
 global.location = "India, kerala, palakkad" //ur location
 
 //bot bomdy 
 global.owner = ['917736908570']
 global.ownertag = '917736908570' //ur tag number
-global.botname = 'itachi-md-bot' //ur bot name
+global.botname = 'ī.am      💓҉️      𝙸𝚃𝙰𝙲𝙷𝙸' //ur bot name
 global.linkz = "https://youtube.com/channel/UC2DxiDEyDA5JHnucPhe4R3Q" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtube.com/channel/UC2DxiDEyDA5JHnucPhe4R3Q" //ur website to be displayed
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD4' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "ITACHI Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "🦄 ITACHIMD" //ur sticker watermark author
+global.packname = "ī.am      💓҉️      𝙸𝚃𝙰𝙲𝙷𝙸" //ur sticker watermark packname
+global.author = "ī.am      💓҉️      𝙸𝚃𝙰𝙲𝙷𝙸" //ur sticker watermark author
 
 //Bot theme media
-global.thum = https://bbts1.azureedge.net/images/p/full/2022/06/7de035b8-45a7-4a3c-88ee-98b6ec8487fe.jpg"//ur thumb pic
-global.log0 = https://bbts1.azureedge.net/images/p/full/2022/06/7de035b8-45a7-4a3c-88ee-98b6ec8487fe.jpg"//ur logo pic
-global.err4r = https://bbts1.azureedge.net/images/p/full/2022/06/7de035b8-45a7-4a3c-88ee-98b6ec8487fe.jpg"//ur error pic
-global.thumb = https://bbts1.azureedge.net/images/p/full/2022/06/7de035b8-45a7-4a3c-88ee-98b6ec8487fe.jpg"//ur thumb pic
+global.thum = https://bbts1.azureedge.net/images/p/full/2022/06/7de035b8-45a7-4a3c-88ee-98b6ec8487fe.jpg //ur thumb pic
+global.log0 = https://bbts1.azureedge.net/images/p/full/2022/06/7de035b8-45a7-4a3c-88ee-98b6ec8487fe.jpg //ur logo pic
+global.err4r = https://bbts1.azureedge.net/images/p/full/2022/06/7de035b8-45a7-4a3c-88ee-98b6ec8487fe.jpg //ur error pic
+global.thumb = https://bbts1.azureedge.net/images/p/full/2022/06/7de035b8-45a7-4a3c-88ee-98b6ec8487fe.jpg //ur thumb pic
 
 //damtabase
 global.premium = ['917736908570'] //ur premium numbers
